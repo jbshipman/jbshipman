@@ -17,5 +17,5 @@ Single source of truth for every fact. Decisions encoded where they're knowable.
 
 ## Elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/jbshipman)
+- [LinkedIn](https://www.linkedin.com/in/jamesshipman)
 - 📍 Austin, Texas · open to contract work, consulting, and full-time roles.
