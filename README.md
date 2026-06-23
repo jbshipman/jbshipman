@@ -1,6 +1,6 @@
 # James Shipman
 
-Platform Engineer  |  Azure CI/CD & DevSecOps
+Platform Engineer  /  Azure CI/CD & DevSecOps
 
 I build and run delivery pipelines, and I care as much about *how* software ships as what ships. Nearly two decades across evreything IT, DevOps engineering and technical program management, with deep hands-on Azure DevOps experience: CI/CD design, release engineering, work-item traceability, and quality gates in between.
 
@@ -8,6 +8,7 @@ Before tech, I directed theatre. It turns out the jobs are the just about the sa
 
 ## What I'm building here
 
+- **kairn**: A roguelike terminal app with a fun twist, built on Python *(repo link coming soon)*
 - **[bootdev_bookbot](https://github.com/jbshipman/bootdev_bookbot)**: A deliberately small Python project run to mid-size-team standards. Release Flow branching, conventional commits, tag-driven semantic versioning, Keep a Changelog discipline, and a manual release process designed to be byte-identical to its eventual automation. The code is simple; the process is the portfolio.
 - **Azure DevOps demo environment**: A production-grade pipeline build-out for a mobile-centric system, multi-stage CI/CD, quality gates, and end-to-end work-item traceability *(repo link when public)*
 
@@ -18,4 +19,4 @@ Single source of truth for every fact. Decisions encoded where they're knowable.
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/jamesshipman)
-- 📍 Austin, Texas  |  open to contract work, consulting, and full-time roles  |  Remote-First & Hybrid (in Austin)
+- 📍 Austin, Texas  /  open to contract work, consulting, and full-time roles  /  Remote-First & Hybrid (in Austin)
