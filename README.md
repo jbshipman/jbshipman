@@ -8,7 +8,7 @@ Before tech, I directed theatre. It turns out the jobs are the just about the sa
 
 ## What I'm building here
 
-- **[kairn](https://github.com/jbshipman/kairn)**: _WIP_ A roguelike terminal app with a fun twist, built on Python *(repo link coming soon)*
+- **kairn**: _WIP private repo_ A roguelike terminal app with a fun twist, built on Python *(repo link coming soon)*
 - **[bootdev_bookbot](https://github.com/jbshipman/bootdev_bookbot)**: A deliberately small Python project run to mid-size-team standards. Release Flow branching, conventional commits, tag-driven semantic versioning, Keep a Changelog discipline, and a manual release process designed to be byte-identical to its eventual automation. The code is simple; the process is the portfolio.
 - **Azure DevOps demo environment**: A production-grade pipeline build-out for a mobile-centric system, multi-stage CI/CD, quality gates, and end-to-end work-item traceability *(repo link when public)*
 
